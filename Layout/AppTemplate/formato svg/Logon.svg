@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Logon);
+      }
+
+      .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #113783;
+        opacity: 0.74;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        fill: #040111;
+        stroke: #0c0b0b;
+      }
+
+      .cls-4 {
+        font-size: 60px;
+      }
+
+      .cls-4, .cls-7, .cls-8 {
+        font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        stroke: #040111;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-size: 40px;
+      }
+
+      .cls-6 {
+        font-family: MicrosoftYaHeiUILight, Microsoft YaHei UI;
+      }
+
+      .cls-8 {
+        fill: rgba(4,1,17,0.6);
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+
+      .cls-11 {
+        fill: rgba(255,255,255,0.99);
+      }
+    </style>
+    <clipPath id="clip-Logon">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Logon" class="cls-1">
+    <rect class="cls-11" width="1920" height="1080"/>
+    <image id="collaboration" width="1921.5" height="1080.5" transform="translate(-1)" xlink:href="../../business/img/collaboration.jpg"/>
+    <g id="Retângulo_19" data-name="Retângulo 19" class="cls-2" transform="translate(482 98)">
+      <rect class="cls-9" width="975" height="803" rx="81"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="974" height="802" rx="80.5"/>
+    </g>
+    <g id="Retângulo_20" data-name="Retângulo 20" class="cls-3" transform="translate(433 98)">
+      <rect class="cls-9" width="1056" height="145" rx="61"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="1055" height="144" rx="60.5"/>
+    </g>
+    <text id="Área_do_Cliente" data-name="Área do Cliente" class="cls-4" transform="translate(960 179)"><tspan x="-232.324" y="0">Área do Cliente</tspan></text>
+    <g id="Retângulo_21" data-name="Retângulo 21" class="cls-5" transform="translate(607 315)">
+      <rect class="cls-9" width="745" height="119"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="744" height="118"/>
+    </g>
+    <g id="Retângulo_22" data-name="Retângulo 22" class="cls-5" transform="translate(607 481)">
+      <rect class="cls-9" width="745" height="119"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="744" height="118"/>
+    </g>
+    <g id="Retângulo_23" data-name="Retângulo 23" class="cls-3" transform="translate(1023 647)">
+      <rect class="cls-9" width="329" height="99" rx="49.5"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="328" height="98" rx="49"/>
+    </g>
+    <g id="Retângulo_24" data-name="Retângulo 24" class="cls-3" transform="translate(607 647)">
+      <rect class="cls-9" width="329" height="99" rx="49.5"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="328" height="98" rx="49"/>
+    </g>
+    <text id="Esqueceu_a_senha_" data-name="Esqueceu a senha ?" class="cls-6" transform="translate(970 834)"><tspan x="-176.631" y="0">Esqueceu a senha ?</tspan></text>
+    <text id="Voltar" class="cls-7" transform="translate(772 712)"><tspan x="-61.67" y="0"><a href="Home.svg">Voltar</a></tspan></text>
+    <text id="Logar" class="cls-7" transform="translate(1188 712)"><tspan x="-57.402" y="0">Logar</tspan></text>
+    <text id="Usuário" class="cls-8" transform="translate(960 390)"><tspan x="-77.451" y="0">Usuário</tspan></text>
+    <text id="Senha" class="cls-8" transform="translate(960 562)"><tspan x="-61.094" y="0">Senha</tspan></text>
+  </g>
+</svg>

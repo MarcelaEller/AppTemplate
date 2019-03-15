@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Contact_Us);
+      }
+
+      .cls-12, .cls-2, .cls-4 {
+        fill: #113784;
+      }
+
+      .cls-11, .cls-12, .cls-2, .cls-8 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: rgba(4,4,4,0.97);
+        opacity: 0.74;
+      }
+
+      .cls-5 {
+        fill: #ecdcdc;
+        font-size: 50px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-15, .cls-6 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke: #f2eaea;
+      }
+
+      .cls-11, .cls-12, .cls-6 {
+        stroke-width: 4px;
+      }
+
+      .cls-7 {
+        fill: #f6f9fc;
+        font-size: 40px;
+      }
+
+      .cls-10, .cls-13, .cls-7, .cls-9 {
+        font-family: Bahnschrift;
+      }
+
+      .cls-11, .cls-17, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-13, .cls-9 {
+        fill: #8d0202;
+      }
+
+      .cls-9 {
+        font-size: 100px;
+      }
+
+      .cls-10 {
+        fill: #060000;
+      }
+
+      .cls-10, .cls-13 {
+        font-size: 60px;
+      }
+
+      .cls-14, .cls-16 {
+        stroke: none;
+      }
+
+      .cls-16 {
+        fill: #707070;
+      }
+    </style>
+    <clipPath id="clip-Contact_Us">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Contact_Us" data-name="Contact Us" class="cls-1">
+    <rect class="cls-17" width="1920" height="1080"/>
+    <g id="Retângulo_1" data-name="Retângulo 1" class="cls-2">
+      <rect class="cls-14" width="1920" height="77"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="1919" height="76"/>
+    </g>
+    <g id="Caminho_1" data-name="Caminho 1" class="cls-3" transform="translate(0 78)">
+      <path class="cls-14" d="M 1919.5 103.2271881103516 L 0.495225578546524 103.2271881103516 L -0.4951337575912476 0.5000455379486084 L 1919.5 0.5000455379486084 L 1919.5 103.2271881103516 Z"/>
+      <path class="cls-16" d="M 0.009765625 1.000045776367188 L 0.990478515625 102.7271881103516 L 1919 102.7271881103516 L 1919 1.000045776367188 L 0.009765625 1.000045776367188 M -1 4.57763671875e-05 L 1920 4.57763671875e-05 L 1920 103.7271881103516 L 0 103.7271881103516 L -1 4.57763671875e-05 Z"/>
+    </g>
+    <g id="Agrupar_1" data-name="Agrupar 1" transform="translate(339 -390)">
+      <rect id="Retângulo_3" data-name="Retângulo 3" class="cls-4" width="248" height="64" transform="translate(1192 390)"/>
+      <text id="Logon" class="cls-5" transform="translate(1192 390)"><tspan x="54.066" y="54"><a href="Logon.svg">Logon</a></tspan></text>
+    </g>
+    <line id="Linha_1" data-name="Linha 1" class="cls-6" y2="81" transform="translate(531.5 -2.5)"/>
+    <text id="Who_we_are" data-name="Who we are" class="cls-7" transform="translate(982 150)"><tspan x="-101.543" y="0"><a href="Who we are.svg">Who we are</a></tspan></text>
+    <text id="Products" class="cls-7" transform="translate(1333 150)"><tspan x="-79.961" y="0"><a href="Products.svg">Products</a></tspan></text>
+    <text id="Contact_Us-2" data-name="Contact Us" class="cls-7" transform="translate(1684 150)"><tspan x="-94.893" y="0">Contact Us</tspan></text>
+    <image id="contact" width="1920" height="1279" transform="translate(0 182)" xlink:href="../../business/img/contact.jpg"/>
+    <g id="Retângulo_10" data-name="Retângulo 10" class="cls-8" transform="translate(960 254)">
+      <rect class="cls-14" width="922" height="766"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="921" height="765"/>
+    </g>
+    <text id="Contact_Us-3" data-name="Contact Us" class="cls-9" transform="translate(123 298)"><tspan x="171.269" y="79">Contact Us</tspan></text>
+    <text id="_It_has_survived_not_only_five_centuries_but_also_the_leap_into_electronic_typesetting_remaining_essentially_unchanged._" data-name=" It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. " class="cls-10" transform="translate(123 446)"><tspan x="19.438" y="48" xml:space="preserve"> It has survived not only five </tspan><tspan x="26.454" y="132">centuries, but also the leap </tspan><tspan x="29.018" y="216">into electronic typesetting, </tspan><tspan x="93.192" y="300">remaining essentially </tspan></text>
+    <g id="Retângulo_11" data-name="Retângulo 11" class="cls-11" transform="translate(1056 372)">
+      <rect class="cls-14" width="723" height="114"/>
+      <rect class="cls-15" x="2" y="2" width="719" height="110"/>
+    </g>
+    <g id="Retângulo_12" data-name="Retângulo 12" class="cls-11" transform="translate(1060 523)">
+      <rect class="cls-14" width="723" height="114"/>
+      <rect class="cls-15" x="2" y="2" width="719" height="110"/>
+    </g>
+    <g id="Retângulo_13" data-name="Retângulo 13" class="cls-11" transform="translate(1060 674)">
+      <rect class="cls-14" width="723" height="114"/>
+      <rect class="cls-15" x="2" y="2" width="719" height="110"/>
+    </g>
+    <g id="Retângulo_14" data-name="Retângulo 14" class="cls-12" transform="translate(1254 859)">
+      <rect class="cls-14" width="336" height="114" rx="52"/>
+      <rect class="cls-15" x="2" y="2" width="332" height="110" rx="50"/>
+    </g>
+    <text id="Send" class="cls-13" transform="translate(1413 934)"><tspan x="-67.485" y="0">Send</tspan></text>
+    <text id="Name" class="cls-10" transform="translate(1163 447)"><tspan x="-78.75" y="0">Name</tspan></text>
+    <text id="E-mail" class="cls-10" transform="translate(1174 598)"><tspan x="-90.19" y="0">E-mail</tspan></text>
+    <text id="Phone" class="cls-10" transform="translate(1169 749)"><tspan x="-84.624" y="0">Phone</tspan></text>
+  </g>
+</svg>

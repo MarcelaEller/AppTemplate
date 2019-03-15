@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-E-commerce);
+      }
+
+      .cls-2 {
+        fill: url(#pattern);
+      }
+
+      .cls-3 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-4 {
+        fill: #dea66a;
+        stroke: #707070;
+      }
+
+      .cls-5 {
+        fill: #000407;
+        font-size: 40px;
+        font-family: Verdana;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1180 339">
+      <image width="1180" height="339" xlink:href="E-commerce-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1157 470">
+      <image width="1157" height="470" xlink:href="E-commerce-image2.png"/>
+    </pattern>
+    <clipPath id="clip-E-commerce">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="E-commerce" class="cls-1">
+    <rect class="cls-8" width="1920" height="1080"/>
+    <rect id="Imagem_15" data-name="Imagem 15" class="cls-2" width="1920" height="552"/>
+    <rect id="Imagem_16" data-name="Imagem 16" class="cls-3" width="1682" height="683" rx="58" transform="translate(119 206)"/>
+    <g id="Retângulo_17" data-name="Retângulo 17" class="cls-4" transform="translate(1345 927)">
+      <rect class="cls-6" width="354" height="84" rx="36"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="353" height="83" rx="35.5"/>
+    </g>
+    <text id="Buy_now" data-name="Buy now" class="cls-5" transform="translate(1522 969)"><tspan x="-86.396" y="0">Buy now</tspan></text>
+    <g id="Retângulo_18" data-name="Retângulo 18" class="cls-4" transform="translate(119 54)">
+      <rect class="cls-6" width="271" height="84" rx="36"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="270" height="83" rx="35.5"/>
+    </g>
+    <text id="Voltar" class="cls-5" transform="translate(255 112)"><tspan x="-58.75" y="0"><a href="Products.svg">Voltar</a></tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Calendar);
+      }
+
+      .cls-2 {
+        fill: #dea66a;
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #000407;
+        font-size: 40px;
+        font-family: Verdana;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: rgba(94,114,227,0.68);
+      }
+    </style>
+    <clipPath id="clip-Calendar">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Calendar" class="cls-1">
+    <rect class="cls-6" width="1920" height="1080"/>
+    <image id="Imagem_11" data-name="Imagem 11" width="1554" height="660" transform="translate(0 108)" xlink:href="Calendar-image.png"/>
+    <image id="Imagem_12" data-name="Imagem 12" width="366" height="472" transform="translate(1554 608)" xlink:href="Calendar-image2.png"/>
+    <image id="Imagem_13" data-name="Imagem 13" width="351" height="495" transform="translate(1554 108)" xlink:href="Calendar-image3.png"/>
+    <g id="Retângulo_18" data-name="Retângulo 18" class="cls-2">
+      <rect class="cls-4" width="271" height="84" rx="36"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="270" height="83" rx="35.5"/>
+    </g>
+    <text id="Voltar" class="cls-3" transform="translate(136 58)"><tspan x="-58.75" y="0"><a href="Products.svg">Voltar</a></tspan></text>
+  </g>
+</svg>

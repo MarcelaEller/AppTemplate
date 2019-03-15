@@ -1,0 +1,281 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="3549" viewBox="0 0 1920 3549">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Home);
+      }
+
+      .cls-2, .cls-5 {
+        fill: #113784;
+      }
+
+      .cls-11, .cls-12, .cls-17, .cls-18, .cls-2, .cls-8 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: rgba(4,4,4,0.97);
+        opacity: 0.74;
+      }
+
+      .cls-13, .cls-14, .cls-26, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #f2eaea;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: #ecdcdc;
+        font-size: 50px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-7 {
+        fill: #f6f9fc;
+        font-family: Bahnschrift;
+      }
+
+      .cls-15, .cls-19, .cls-20, .cls-22, .cls-7, .cls-9 {
+        font-size: 40px;
+      }
+
+      .cls-8 {
+        fill: url(#pattern);
+      }
+
+      .cls-9 {
+        fill: rgba(4,1,17,0.6);
+        font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;
+      }
+
+      .cls-10, .cls-16, .cls-19, .cls-21, .cls-9 {
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        fill: rgba(141,2,2,0.97);
+      }
+
+      .cls-10, .cls-16, .cls-21 {
+        font-size: 60px;
+      }
+
+      .cls-10, .cls-16, .cls-19, .cls-21 {
+        font-family: Verdana-Bold, Verdana;
+      }
+
+      .cls-11 {
+        fill: #494949;
+      }
+
+      .cls-12 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-13 {
+        stroke: #fcf6f6;
+      }
+
+      .cls-13, .cls-14 {
+        stroke-width: 5px;
+      }
+
+      .cls-14 {
+        stroke: #948f8f;
+      }
+
+      .cls-15 {
+        fill: #040000;
+      }
+
+      .cls-15, .cls-20, .cls-22 {
+        font-family: Verdana;
+      }
+
+      .cls-16 {
+        fill: rgba(141,2,2,0.84);
+      }
+
+      .cls-17 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-18 {
+        fill: url(#pattern-5);
+      }
+
+      .cls-19, .cls-20, .cls-22 {
+        fill: #0a0000;
+      }
+
+      .cls-21 {
+        fill: #8d0202;
+      }
+
+      .cls-22 {
+        font-weight: 400;
+      }
+
+      .cls-23 {
+        fill: url(#pattern-6);
+      }
+
+      .cls-24 {
+        fill: url(#pattern-7);
+      }
+
+      .cls-25, .cls-27 {
+        stroke: none;
+      }
+
+      .cls-27 {
+        fill: #707070;
+      }
+
+      .cls-28 {
+        fill: #fff;
+      }
+
+      .cls-29 {
+        filter: url(#planning);
+      }
+
+      .cls-30 {
+        filter: url(#NoPath_-_Copia);
+      }
+
+      .cls-31 {
+        filter: url(#NoPath-2);
+      }
+
+      .cls-32 {
+        filter: url(#NoPath);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 600 400">
+      <image width="600" height="400" xlink:href="Home-image.jpg"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 512 512">
+      <image width="512" height="512" xlink:href="Home-image2.png"/>
+    </pattern>
+    <filter id="NoPath" x="149" y="1307" width="507" height="471" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-color="#4a4a4a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 264 150">
+      <image width="264" height="150" xlink:href="Home-image3.png"/>
+    </pattern>
+    <filter id="NoPath-2" x="1285" y="1307" width="507" height="471" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-2"/>
+      <feFlood flood-color="#4a4a4a"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 258 195">
+      <image width="258" height="195" xlink:href="Home-image4.png"/>
+    </pattern>
+    <filter id="NoPath_-_Copia" x="717" y="1307" width="507" height="471" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-3"/>
+      <feFlood flood-color="#4a4a4a"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-6" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 521 384">
+      <image width="521" height="384" xlink:href="../../business/img/planning.jpg"/>
+    </pattern>
+    <filter id="planning" x="224" y="2673" width="788.5" height="628" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-4"/>
+      <feFlood flood-color="#494949"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-7" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 400 426">
+      <image width="400" height="426" xlink:href="Home-image5.png"/>
+    </pattern>
+    <clipPath id="clip-Home">
+      <rect width="1920" height="3549"/>
+    </clipPath>
+  </defs>
+  <g id="Home" class="cls-1">
+    <rect class="cls-28" width="1920" height="3549"/>
+    <g id="Retângulo_1" data-name="Retângulo 1" class="cls-2">
+      <rect class="cls-25" width="1920" height="77"/>
+      <rect class="cls-26" x="0.5" y="0.5" width="1919" height="76"/>
+    </g>
+    <g id="Caminho_1" data-name="Caminho 1" class="cls-3" transform="translate(0 79)">
+      <path class="cls-25" d="M 1919.5 103.2271881103516 L 0.495225578546524 103.2271881103516 L -0.4951337575912476 0.5000455379486084 L 1919.5 0.5000455379486084 L 1919.5 103.2271881103516 Z"/>
+      <path class="cls-27" d="M 0.009765625 1.000045776367188 L 0.990478515625 102.7271881103516 L 1919 102.7271881103516 L 1919 1.000045776367188 L 0.009765625 1.000045776367188 M -1 4.57763671875e-05 L 1920 4.57763671875e-05 L 1920 103.7271881103516 L 0 103.7271881103516 L -1 4.57763671875e-05 Z"/>
+    </g>
+    <line id="Linha_1" data-name="Linha 1" class="cls-4" y2="81" transform="translate(531.5 -2.5)"/>
+    <g id="Agrupar_1" data-name="Agrupar 1" transform="translate(339 -390)">
+      <rect id="Retângulo_3" data-name="Retângulo 3" class="cls-5" width="248" height="64" transform="translate(1192 390)"/>
+      <text id="Logon" class="cls-6" transform="translate(1192 390)"><tspan x="54.066" y="54"><a href="Logon.svg">Logon</a></tspan></text>
+    </g>
+    <text id="Who_we_are" data-name="Who we are" class="cls-7" transform="translate(982 150)"><tspan x="-101.543" y="0"><a href="Who we are.svg">Who we are</a></tspan></text>
+    <text id="Products" class="cls-7" transform="translate(1333 150)"><tspan x="-79.961" y="0"><a href="Products.svg">Products</a></tspan></text>
+    <text id="Contact_Us" data-name="Contact Us" class="cls-7" transform="translate(1684 150)"><tspan x="-94.893" y="0"><a href="Contact Us.svg">Contact Us</a></tspan></text>
+    <image id="open" width="920" height="767" transform="translate(532 183)" xlink:href="../../business/img/open.jpg"/>
+    <g id="NoPath-3" data-name="NoPath" class="cls-8" transform="translate(229 1387)">
+      <ellipse class="cls-25" cx="163.5" cy="145.5" rx="163.5" ry="145.5"/>
+      <ellipse class="cls-26" cx="163.5" cy="145.5" rx="163" ry="145"/>
+    </g>
+    <text id="A_productivity_Platform" data-name="A productivity Platform" class="cls-9" transform="translate(205 1708)"><tspan x="43.555" y="41">A productivity </tspan><tspan x="99.238" y="92">Platform</tspan></text>
+    <text id="Always_in_Sync" data-name="Always in Sync" class="cls-9" transform="translate(773 1708)"><tspan x="39.004" y="41">Always in Sync</tspan></text>
+    <text id="Easy_to_Use" data-name="Easy to Use" class="cls-9" transform="translate(1341 1708)"><tspan x="72.773" y="41">Easy to Use</tspan></text>
+    <text id="Simpler_Smarter_and_Faster._" data-name="Simpler, Smarter and Faster. " class="cls-10" transform="translate(960 1114)"><tspan x="-496.816" y="0">Simpler, Smarter and Faster. </tspan></text>
+    <g id="Retângulo_25" data-name="Retângulo 25" class="cls-11" transform="translate(817 931)">
+      <rect class="cls-25" width="330" height="61" rx="30"/>
+      <rect class="cls-26" x="0.5" y="0.5" width="329" height="60" rx="29.5"/>
+    </g>
+    <g id="NoPath_-_Copia_3_" data-name="NoPath - Copia (3)" class="cls-12" transform="translate(1452 482)">
+      <rect class="cls-25" width="77" height="85" rx="30"/>
+      <rect class="cls-26" x="0.5" y="0.5" width="76" height="84" rx="29.5"/>
+    </g>
+    <line id="Linha_2" data-name="Linha 2" class="cls-13" x2="58" transform="translate(863.5 961.5)"/>
+    <line id="Linha_3" data-name="Linha 3" class="cls-13" x2="58" transform="translate(953.5 961.5)"/>
+    <line id="Linha_4" data-name="Linha 4" class="cls-14" x2="58" transform="translate(1048.5 961.5)"/>
+    <text id="It_has_survived_not_only_five_centuries_but_also_the_leap_into_electronic_typesetting_remaining_essentially_unchanged." data-name="It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged." class="cls-15" transform="translate(610 482)"><tspan x="12.906" y="40">It has survived not only five centuries, </tspan><tspan x="83.941" y="88">but also the leap into electronic </tspan><tspan x="61.285" y="136">typesetting, remaining essentially </tspan><tspan x="284.332" y="184">unchanged.</tspan></text>
+    <text id="Some_Title" data-name="Some Title" class="cls-16" transform="translate(1012 368)"><tspan x="-178.374" y="0">Some Title</tspan></text>
+    <g class="cls-32" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="NoPath-4" data-name="NoPath" class="cls-8" transform="translate(229 1387)">
+        <ellipse class="cls-25" cx="163.5" cy="145.5" rx="163.5" ry="145.5"/>
+        <ellipse class="cls-26" cx="163.5" cy="145.5" rx="163" ry="145"/>
+      </g>
+    </g>
+    <g class="cls-31" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="NoPath-5" data-name="NoPath" class="cls-17" transform="translate(1365 1387)">
+        <ellipse class="cls-25" cx="163.5" cy="145.5" rx="163.5" ry="145.5"/>
+        <ellipse class="cls-26" cx="163.5" cy="145.5" rx="163" ry="145"/>
+      </g>
+    </g>
+    <g class="cls-30" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="NoPath_-_Copia-2" data-name="NoPath - Copia" class="cls-18" transform="translate(797 1387)">
+        <ellipse class="cls-25" cx="163.5" cy="145.5" rx="163.5" ry="145.5"/>
+        <ellipse class="cls-26" cx="163.5" cy="145.5" rx="163" ry="145"/>
+      </g>
+    </g>
+    <text id="It_has_survived_not_only_five_centuries_but_also_the_leap_into_electronic_typesetting_remaining_essentially_unchanged.-2" data-name="It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged." class="cls-19" transform="translate(229 1198)"><tspan x="56.697" y="40">It has survived not only five centuries, but also the leap into </tspan><tspan x="98.768" y="88">electronic typesetting, remaining essentially unchanged.</tspan></text>
+    <text id="Phone_:_xx-xxxxx_xxxx" data-name="Phone : xx-xxxxx xxxx" class="cls-20" transform="translate(797 56)"><tspan x="-229.902" y="0">Phone : xx-xxxxx xxxx</tspan></text>
+    <text id="Some_Text_Lorem_Ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry._Lorem_Ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book." data-name="Some Text
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." class="cls-21" transform="translate(229 1972)"><tspan x="213.565" y="60">Some Text</tspan><tspan class="cls-22"><tspan x="391.5" y="113"></tspan><tspan x="7.33" y="161">Lorem Ipsum is simply dummy text of </tspan><tspan x="16.119" y="209">the printing and typesetting industry. </tspan><tspan x="15.553" y="257">Lorem Ipsum has been the industry&apos;s </tspan><tspan x="25.357" y="305">standard dummy text ever since the </tspan><tspan x="7.096" y="353">1500s, when an unknown printer took </tspan><tspan x="34.576" y="401">a galley of type and scrambled it to </tspan><tspan x="101.773" y="449">make a type specimen book.</tspan></tspan></text>
+    <g id="Footer" class="cls-3" transform="translate(0 3357.333)">
+      <path class="cls-25" d="M 1919.5 190.8942565917969 L 0.4974012672901154 190.8942565917969 L -0.4973739087581635 0.4999701678752899 L 1919.5 0.4999701678752899 L 1919.5 190.8942565917969 Z"/>
+      <path class="cls-27" d="M 0.0052490234375 0.999969482421875 L 0.9947509765625 190.3942565917969 L 1919 190.3942565917969 L 1919 0.999969482421875 L 0.0052490234375 0.999969482421875 M -1 -3.0517578125e-05 L 1920 -3.0517578125e-05 L 1920 191.3942565917969 L 0 191.3942565917969 L -1 -3.0517578125e-05 Z"/>
+    </g>
+    <g class="cls-29" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="planning-2" data-name="planning" class="cls-23" width="608.5" height="448" rx="30" transform="translate(284 2733)"/>
+    </g>
+    <text id="It_has_survived_not_only_five_centuries_but_also_the_leap_into_electronic_typesetting_remaining_essentially_unchanged.-3" data-name="It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged." class="cls-20" transform="translate(1078 2844)"><tspan x="20.598" y="40">It has survived not only five </tspan><tspan x="28.332" y="88">centuries, but also the leap </tspan><tspan x="33.947" y="136">into electronic typesetting, </tspan><tspan x="89.787" y="184">remaining essentially </tspan><tspan x="185.832" y="232">unchanged.</tspan></text>
+    <rect id="NoPath_-_Copia_5_" data-name="NoPath - Copia (5)" class="cls-24" width="462" height="492" rx="30" transform="translate(1102 2018)"/>
+  </g>
+</svg>

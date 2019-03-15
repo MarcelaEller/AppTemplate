@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ScrumBoard);
+      }
+
+      .cls-2 {
+        fill: url(#pattern);
+      }
+
+      .cls-3, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #707070;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        fill: #3a434d;
+        font-size: 30px;
+        font-family: Verdana-Bold, Verdana;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #86b5e3;
+        stroke: rgba(13,0,0,0.65);
+        opacity: 0.54;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        filter: url(#Retângulo_26);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 147 22">
+      <image width="147" height="22" xlink:href="ScrumBoard-image4.png"/>
+    </pattern>
+    <filter id="Retângulo_26" x="86" y="22" width="406" height="254" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-ScrumBoard">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="ScrumBoard" class="cls-1">
+    <rect class="cls-8" width="1920" height="1080"/>
+    <image id="NoPath_-_Copia_6_" data-name="NoPath - Copia (6)" width="1868" height="1133" xlink:href="ScrumBoard-image.png"/>
+    <image id="Imagem_19" data-name="Imagem 19" width="278" height="485" transform="translate(146 197)" xlink:href="ScrumBoard-image2.png"/>
+    <image id="Imagem_20" data-name="Imagem 20" width="474" height="237" transform="translate(548 262)" xlink:href="ScrumBoard-image3.png"/>
+    <rect id="Imagem_21" data-name="Imagem 21" class="cls-2" width="208" height="31" transform="translate(681 197)"/>
+    <line id="Linha_5" data-name="Linha 5" class="cls-3" x2="92" transform="translate(424.5 370.5)"/>
+    <line id="Linha_6" data-name="Linha 6" class="cls-3" x2="92" transform="translate(1020.5 380.5)"/>
+    <image id="Imagem_22" data-name="Imagem 22" width="475" height="516" transform="translate(1292 262)" xlink:href="ScrumBoard-image5.png"/>
+    <image id="Imagem_23" data-name="Imagem 23" width="652" height="204" transform="translate(517 708)" xlink:href="ScrumBoard-image6.png"/>
+    <text id="Progress" class="cls-4" transform="translate(815 642)"><tspan x="-74.451" y="0">Progress</tspan></text>
+    <text id="To_do_list" data-name="To do list" class="cls-4" transform="translate(1530 243)"><tspan x="-77.549" y="0">To do list</tspan></text>
+    <text id="Voltar" class="cls-4" transform="translate(251 131)"><tspan x="-51.189" y="0"><a href="Products.svg"> Voltar</a></tspan></text>
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Retângulo_26-2" data-name="Retângulo 26" class="cls-5" transform="translate(146 82)">
+        <rect class="cls-6" width="226" height="74" rx="30"/>
+        <rect class="cls-7" x="0.5" y="0.5" width="225" height="73" rx="29.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

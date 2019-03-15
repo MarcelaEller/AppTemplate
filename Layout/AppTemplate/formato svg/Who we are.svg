@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1205" viewBox="0 0 1920 1205">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Who_we_are);
+      }
+
+      .cls-2 {
+        fill: #040111;
+        stroke: #0c0b0b;
+        font-size: 62px;
+        font-family: Verdana-Bold, Verdana;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: rgba(154,153,146,0.94);
+        font-size: 35px;
+        font-family: Verdana;
+        letter-spacing: 0.003em;
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-10, .cls-6 {
+        fill: #113784;
+      }
+
+      .cls-6 {
+        stroke: #707070;
+      }
+
+      .cls-7 {
+        fill: rgba(4,4,4,0.97);
+        opacity: 0.74;
+      }
+
+      .cls-13, .cls-8 {
+        fill: none;
+      }
+
+      .cls-8 {
+        stroke: #f2eaea;
+        stroke-width: 4px;
+      }
+
+      .cls-9 {
+        fill: #f6f9fc;
+        font-size: 40px;
+        font-family: Bahnschrift;
+      }
+
+      .cls-11 {
+        fill: #ecdcdc;
+        font-size: 50px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-12, .cls-14 {
+        stroke: none;
+      }
+
+      .cls-14 {
+        fill: #707070;
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-16 {
+        filter: url(#franquias-home-office-para-trabalhar-em-casa);
+      }
+
+      .cls-17 {
+        filter: url(#planning1);
+      }
+    </style>
+    <pattern id="pattern" width="1" height="1" viewBox="68.149 -81.905 750.5 497.5">
+      <image preserveAspectRatio="none" width="750.5" height="497.5" xlink:href="../../business/img/planning1.jpg"/>
+    </pattern>
+    <filter id="planning1" x="192" y="481" width="870.5" height="617.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-2" width="1" height="1" viewBox="0 34.091 744 418">
+      <image preserveAspectRatio="none" width="744" height="418" xlink:href="../../business/img/franquias-home-office-para-trabalhar-em-casa.jpg"/>
+    </pattern>
+    <filter id="franquias-home-office-para-trabalhar-em-casa" x="822" y="655" width="864" height="538" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Who_we_are">
+      <rect width="1920" height="1205"/>
+    </clipPath>
+  </defs>
+  <g id="Who_we_are" data-name="Who we are" class="cls-1">
+    <rect class="cls-15" width="1920" height="1205"/>
+    <text id="Who_we_are_" data-name="Who we are ?
+" class="cls-2" transform="translate(960.5 282.5)"><tspan x="-236.905" y="0">Who we are ?</tspan><tspan x="0" y="75"></tspan></text>
+    <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry._Lorem_Ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book._" data-name="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, 
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. " class="cls-3" transform="translate(223.5 324.5)"><tspan x="0.164" y="35">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem </tspan><tspan x="72.636" y="77">Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, </tspan><tspan x="28.229" y="119">when an unknown printer took a galley of type and scrambled it to make a type </tspan><tspan x="597.911" y="161">specimen book. </tspan></text>
+    <g class="cls-17" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="planning1-2" data-name="planning1" class="cls-4" width="750.5" height="497.5" transform="translate(232 521)"/>
+    </g>
+    <g class="cls-16" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="franquias-home-office-para-trabalhar-em-casa-2" data-name="franquias-home-office-para-trabalhar-em-casa" class="cls-5" width="744" height="418" transform="translate(862 695)"/>
+    </g>
+    <g id="Retângulo_1" data-name="Retângulo 1" class="cls-6">
+      <rect class="cls-12" width="1920" height="77"/>
+      <rect class="cls-13" x="0.5" y="0.5" width="1919" height="76"/>
+    </g>
+    <g id="Caminho_1" data-name="Caminho 1" class="cls-7" transform="translate(0 79)">
+      <path class="cls-12" d="M 1919.5 103.2271881103516 L 0.495225578546524 103.2271881103516 L -0.4951337575912476 0.5000455379486084 L 1919.5 0.5000455379486084 L 1919.5 103.2271881103516 Z"/>
+      <path class="cls-14" d="M 0.009765625 1.000045776367188 L 0.990478515625 102.7271881103516 L 1919 102.7271881103516 L 1919 1.000045776367188 L 0.009765625 1.000045776367188 M -1 4.57763671875e-05 L 1920 4.57763671875e-05 L 1920 103.7271881103516 L 0 103.7271881103516 L -1 4.57763671875e-05 Z"/>
+    </g>
+    <line id="Linha_1" data-name="Linha 1" class="cls-8" y2="81" transform="translate(531.5 -2.5)"/>
+    <text id="Who_we_are-2" data-name="Who we are" class="cls-9" transform="translate(982 150)"><tspan x="-101.543" y="0">Who we are</tspan></text>
+    <g id="Agrupar_1" data-name="Agrupar 1" transform="translate(339 -390)">
+      <rect id="Retângulo_3" data-name="Retângulo 3" class="cls-10" width="248" height="64" transform="translate(1192 390)"/>
+      <text id="Logon" class="cls-11" transform="translate(1192 390)"><tspan x="54.066" y="54"><a href="Logon.svg">Logon</a></tspan></text>
+    </g>
+    <text id="Products" class="cls-9" transform="translate(1333 150)"><tspan x="-79.961" y="0"><a href="Products.svg">Products</a></tspan></text>
+    <text id="Contact_Us" data-name="Contact Us" class="cls-9" transform="translate(1684 150)"><tspan x="-94.893" y="0"><a href="Contact Us.svg">Contact Us</a></tspan></text>
+  </g>
+</svg>

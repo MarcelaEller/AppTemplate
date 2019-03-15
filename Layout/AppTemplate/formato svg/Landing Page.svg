@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Landing_Page);
+      }
+
+      .cls-2 {
+        fill: url(#pattern);
+      }
+
+      .cls-3 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-4 {
+        fill: #dea66a;
+        stroke: #707070;
+      }
+
+      .cls-5 {
+        fill: #000407;
+        font-size: 40px;
+        font-family: Verdana;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1020 463">
+      <image width="1020" height="463" xlink:href="Landing%20Page-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 611 78">
+      <image width="611" height="78" xlink:href="Landing%20Page-image2.png"/>
+    </pattern>
+    <clipPath id="clip-Landing_Page">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Landing_Page" data-name="Landing Page" class="cls-1">
+    <rect class="cls-8" width="1920" height="1080"/>
+    <rect id="Imagem_17" data-name="Imagem 17" class="cls-2" width="1920" height="872"/>
+    <rect id="Imagem_18" data-name="Imagem 18" class="cls-3" width="1343" height="171" transform="translate(289 889)"/>
+    <g id="Retângulo_18" data-name="Retângulo 18" class="cls-4" transform="translate(119 54)">
+      <rect class="cls-6" width="271" height="84" rx="36"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="270" height="83" rx="35.5"/>
+    </g>
+    <text id="Voltar" class="cls-5" transform="translate(255 112)"><tspan x="-58.75" y="0"><a href="Products.svg">Voltar</a></tspan></text>
+  </g>
+</svg>
